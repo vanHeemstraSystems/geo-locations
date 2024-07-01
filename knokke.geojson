@@ -11,10 +11,9 @@
         ]
       },
       "properties": {
-        "marker-symbol": "marker",
+        "marker-symbol": "bar",
         "name": "BAR D’ O",
-        "address": "Zeedijk-Knokke, 8300 Knokke-Heist, Belgium",
-        "url": "https://www.google.com/maps/place/BAR+D%E2%80%99+O/@51.3505254,3.2804779,19z/data=!4m19!1m12!4m11!1m3!2m2!1d3.2809554!2d51.3504969!1m6!1m2!1s0x47c4a625616eee93:0x53184acbda560ec5!2sZeedijk-Knokke,+8300+Knokke-Heist,+Belgi%C3%AB!2m2!1d3.2811298!2d51.3505258!3m5!1s0x47c4a625616eee93:0x53184acbda560ec5!8m2!3d51.3505258!4d3.2811298!16s%2Fg%2F11c45p32hg?entry=ttu"
+        "address": "Zeedijk-Knokke, 8300 Knokke-Heist, Belgium"
       }
     }
   ]
