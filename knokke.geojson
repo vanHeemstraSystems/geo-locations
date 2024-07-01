@@ -12,7 +12,8 @@
       },
       "properties": {
         "marker-symbol": "marker",
-        "name": "bar-d-o",
+        "name": "BAR D’ O",
+        "address": "",
         "previous-sha": "e3487e1a970639de4d9a933f37c7d66dab9474a5"
       }
     }
