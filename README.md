@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+geo-locations
+# Geo Locations
 
-Based on "ABC" at https://www.abc.com/
+Based on "Add your geolocation to Git every time you commit" at https://coderwall.com/p/fpuhjg/add-your-geolocation-to-git-every-time-you-commit
 
 ## 100 - Introduction
 
